@@ -1,1 +1,2 @@
 "hello from Aric" 
+goodbye from Aric 
